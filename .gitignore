@@ -2,3 +2,5 @@ node_modules/
 .expo/
 npm-debug.*
 npm-debug.log
+ios/build
+android/build
