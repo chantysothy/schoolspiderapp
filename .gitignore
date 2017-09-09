@@ -4,3 +4,4 @@ npm-debug.*
 npm-debug.log
 ios/build
 android/build
+.vscode/

@@ -20,7 +20,7 @@ export class LandingScreen extends React.Component {
             source={require('./../../../assets/icon.png')}></Image>
             <Button
             onPress={() =>
-                navigate('Content', { name: 'Jane' })
+                navigate('Home', { name: 'Jane' })
             }
             title="Start Now"
             color="#841584"
